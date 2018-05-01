@@ -5,8 +5,8 @@ import random
 
 for num in range(0,10):
     #pick the numbers to multiply
-    number1 = random.randint(1, 10)
-    number2 = random.randint(1, 10)
+    number1 = 1
+    number2 = 1
     answer = number1 * number2
 
     guess = 0
